@@ -1,6 +1,6 @@
 #use this script to see how the best snake in a generation plays the game
 from game import Board
-from brain import NeuralNetwork
+from NeuralNet import NeuralNetwork
 import ast
 import time
 import os
